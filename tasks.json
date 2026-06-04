@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "description": "new_description",
+        "status": "Done",
+        "createdAt": "2026-06-04T16:15:01.499867",
+        "updatedAt": "2026-06-04T16:18:00.920040"
+    },
+    {
+        "id": 3,
+        "description": "task-tracker-programm",
+        "status": "Done",
+        "createdAt": "2026-06-04T16:40:37.152313",
+        "updatedAt": "2026-06-04T16:40:37.152313"
+    },
+    {
+        "id": 4,
+        "description": "another-task",
+        "status": "In progress",
+        "createdAt": "2026-06-04T16:40:56.013916",
+        "updatedAt": "2026-06-04T16:40:56.013916"
+    },
+    {
+        "id": 5,
+        "description": "another-task-again",
+        "status": "todo",
+        "createdAt": "2026-06-04T16:40:59.394723",
+        "updatedAt": "2026-06-04T16:40:59.394723"
+    }
+]
